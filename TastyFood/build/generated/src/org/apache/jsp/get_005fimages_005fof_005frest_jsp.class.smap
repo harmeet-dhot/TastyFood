@@ -1,0 +1,14 @@
+SMAP
+get_005fimages_005fof_005frest_jsp.java
+JSP
+*S JSP
+*F
++ 0 get_images_of_rest.jsp
+get_images_of_rest.jsp
+*L
+1:45
+3,28:47
+30:75
+31:76,3
+32,9:79
+*E

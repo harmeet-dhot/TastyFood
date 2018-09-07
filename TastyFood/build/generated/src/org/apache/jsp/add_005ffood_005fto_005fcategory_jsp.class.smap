@@ -1,0 +1,16 @@
+SMAP
+add_005ffood_005fto_005fcategory_jsp.java
+JSP
+*S JSP
+*F
++ 0 add_food_to_category.jsp
+add_food_to_category.jsp
+*L
+1,43:45
+44,10:89
+53:99
+54:100,3
+55:103
+56,6:105
+61,29:111
+*E

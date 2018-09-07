@@ -1,0 +1,16 @@
+SMAP
+add_005fmenu_005fitem_jsp.java
+JSP
+*S JSP
+*F
++ 0 add_menu_item.jsp
+add_menu_item.jsp
+*L
+1,73:45
+74,10:119
+83:129
+84:130,3
+85:133
+86,6:135
+91,19:141
+*E
